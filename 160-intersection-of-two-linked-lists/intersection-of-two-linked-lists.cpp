@@ -12,7 +12,7 @@ public:
         ListNode* a = headA;
         ListNode* b = headB;
 
-        while(a !=b){
+        while(a != b){
             if(a == NULL)
             a = headB;
 
